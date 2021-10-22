@@ -7,3 +7,5 @@ In a word, this is a script to automatically clt C and clt V for specific column
 
 Oh what a surprise, all the words become "word" lol
 
+I have to make a Version2 
+
